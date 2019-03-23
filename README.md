@@ -1,2 +1,2 @@
-Uma calculadora simples de Raiz Quadrada feito em C. Primeiro projeto em "C"
+Uma calculadora simples de Raiz Quadrada feito em C. Primeiro projeto em "C"\n
 Feito apenas para estudos.
