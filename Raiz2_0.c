@@ -49,9 +49,9 @@ default:
 }
 
 void Mensagem (void){
-    printf("========================================\n");
+    printf("=========================================\n");
     printf("    Simples calculadora de Raiz quadrada\n");
     printf("    By: Filipe Moreno\n");
     printf("    Versao: 2.0\n");
-    printf(" ========================================\n");
+    printf(" =========================================\n");
 }
