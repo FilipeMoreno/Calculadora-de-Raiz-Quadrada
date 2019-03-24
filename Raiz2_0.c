@@ -16,11 +16,11 @@ int main(){
     printf(" ");
     printf("\n  Qual numero voce deseja saber a raiz? ");
     scanf("%f", &x);
-    double parametro, resultado;
-    parametro = x;
-    resultado = sqrt (parametro);
+    double numero, resultado;
+    numero = x;
+    resultado = sqrt (numero);
     printf("\n==========================================");
-    printf ("\n A raiz de %.0f eh: %f\n", parametro, resultado );
+    printf ("\n A raiz de %.0f eh: %f\n", numero, resultado );
     printf("==========================================\n");
     return outro();
 }
