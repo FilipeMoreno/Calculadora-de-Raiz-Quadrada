@@ -1,6 +1,6 @@
 /* Uma Calculadora Simples para descobrir raiz quadrada
    By: Filipe Moreno - www.filipemoreno.com.br
-   Versao: 1.1 - 25/03/2019
+   Versao: 2.0 - 22/03/2019
 */
 
 #include <stdio.h>
