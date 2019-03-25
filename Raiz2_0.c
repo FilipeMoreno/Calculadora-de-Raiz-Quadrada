@@ -1,7 +1,7 @@
 /* Uma Calculadora Simples para descobrir raiz quadrada
-   Autor: Filipe Moreno
-   Data: 23/03/2019
-   Versao: 2.0 */
+   By: Filipe Moreno - www.filipemoreno.com.br
+   Versao: 1.1 - 25/03/2019
+*/
 
 #include <stdio.h>
 #include<conio.h>
@@ -14,7 +14,7 @@ int main(){
     printf(" ");
     Mensagem();
     printf(" ");
-    printf("\n  Qual numero voce deseja saber a raiz? ");
+    printf("\n  Qual numero voce deseja descobrir a raiz? ");
     scanf("%f", &x);
     double numero, resultado;
     numero = x;
